@@ -1,0 +1,59 @@
+*{
+
+    font-family: 'Courier New';
+
+}
+
+
+h1 ,h3{
+    color: #B92B27;
+
+}
+
+#login{
+    background-color: white;
+    color: teal;
+
+}
+
+#signup{
+    background-color: #B92B27;
+}
+
+.upvote{
+    background-color: rgb(0, 255,100);
+}
+
+.post a{
+  
+    color : purple;
+    background-color: yellow;
+
+}
+
+nav ul li a{
+    color : hotpink;
+}
+
+p + h3{
+     
+    text-decoration:  underline;
+}
+
+.upvote + button{
+    background-color: lightblue;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+button:active{
+    background-color: hotpink;
+}
+
+h3:hover{
+    text-decoration: none;
+
+}
